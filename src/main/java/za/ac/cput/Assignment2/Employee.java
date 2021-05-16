@@ -2,6 +2,14 @@ package za.ac.cput.Assignment2;
 
 import java.util.Objects;
 
+
+/**
+ * Employee.java
+ * Assignment 2- – Software Development Infrastructure
+ * @author Justin and Nkuna (219319820)
+ * Date:  16 May 2021
+ */
+
 public class Employee {
 
     private int empId;
